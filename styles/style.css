@@ -1,0 +1,77 @@
+h1 {
+    position: absolute;
+    width: 133px;
+    height: 25px;
+    top: 40px;
+    left: 77px;
+    font-family: 'Inconsolata';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-align: left;
+    color: #333333;    ;
+}
+
+img {
+    position: absolute;
+    width: 539.2236938476562px;
+    height: 447.4263916015625px;
+    top: 265px;
+    left: 77px;
+}
+
+#title {
+    position: absolute;
+    width: 586px;
+    height: 190px;
+    top: 265px;
+    left: 735px;
+    font-family: 'Space Mono';
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    text-align: left;
+    color: #333333;
+}
+
+#message {
+    position: absolute;
+    width: 381px;
+    height: 108px;
+    top: 491px;
+    left: 736px;
+    font-family: 'Space Mono';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    text-align: left;
+    color:#4F4F4F;
+}
+
+#bt {
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    top: 663px;
+    left: 740px;
+    color: white;
+    background-color: black;
+}
+
+#signature {
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    top: 1039px;
+    left: 577px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #080808;
+}
